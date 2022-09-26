@@ -146,3 +146,95 @@ p {
   font-size: 18px;
   font-weight: bold;
 }
+
+#quote-section {
+  background-color: #e5e7eb;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  padding-bottom: 30px;
+}
+
+.quotes {
+  font-size: 36px;
+  font-weight: 100;
+  margin-left: 15px;
+}
+
+.quotemaster {
+  font-size: 26px;
+  font-weight: bold;
+  margin-left: 1000px;
+}
+
+#page-bottom {
+  background-color: #e5e7eb;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  padding-bottom: 30px;
+}
+
+.background {
+  background-color: #3882f6;
+  width: 80vw;
+  height: 25vh;
+  border-radius: 10px;
+  display: flex;
+}
+
+.text-container {
+  margin-top: 52px;
+  margin-left: 65px;
+}
+
+.call-text {
+  font-size: 26px;
+  font-weight: bold;
+  color: #e5e7eb;
+}
+
+.sign-up-text {
+  font-size: 20px;
+  font-weight: 400;
+  color: #e5e7eb;
+}
+
+.sign-button-two {
+  background-color: #3882f6;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 17px;
+  color: #e5e7eb;
+  width: 120px;
+  height: 32px;
+  margin-left: 220px;
+  margin-top: 65px;
+}
+
+#copyright-claim-section {
+  background-color: #1f2937;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 10vh;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.copyright-text {
+  font-size: 20px;
+  font-weight: 500;
+  color: #e5e7eb;
+}
